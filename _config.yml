@@ -2,13 +2,13 @@ url: http://honnet.github.io
 baseurl:
 
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
-keywords: "jekyll, theme"
+title: Cedric Honnet
+description: "Embedded Systems, Interhacktivity, Arts"
+keywords: "HCI, Human computer interaction, embedded systems, robotics, sensors, arts & tech, wearable, IoT, hackerspaces, augmented humans, music tech, custom instruments"
 google-tracking-id:
 
-# Career Settings
-# Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+# Log Settings
+# Default log thumbnail image.
+log-img: "img/timeline/log.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]

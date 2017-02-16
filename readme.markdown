@@ -43,9 +43,9 @@ Use the **section-type** `timeline` to display a timeline of entries.
 A timeline is a list of post sorted by date. To create a new timeline entry, add a new post to the *_posts* directory. The post should have the following YAML front matter properties:
 
 - **layout** It's value should always be `null`.
-- **title** This is the header text for the career entry.
-- **subtitle** (Optional) This is the sub-header text for the career entry.
-- **image** (Optional) This is a reference to the thumbnail image displayed with the career entry. If blank or not present, then `site.career-img` defined in the *_config.yml* is used.
+- **title** This is the header text for the log entry.
+- **subtitle** (Optional) This is the sub-header text for the log entry.
+- **image** (Optional) This is a reference to the thumbnail image displayed with the log entry. If blank or not present, then `site.log-img` defined in the *_config.yml* is used.
 
 Example timeline post front matter:
 
