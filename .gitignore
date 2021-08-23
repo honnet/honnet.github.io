@@ -2,4 +2,4 @@ _site/*
 _posts/_site/*
 _deploy/*
 Rakefile
-
+.jekyll-cache
